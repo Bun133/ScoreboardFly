@@ -1,4 +1,4 @@
-name: Scoreboard Sample
+name: ScoreboardSample
 version: '${project.version}'
 main: com.github.bun133.scoreboardsample.ScoreboardSample
 api-version: 1.16
